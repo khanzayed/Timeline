@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Timeline_Example' do
+  pod 'Timeline', :path => '../'
+
+  target 'Timeline_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
