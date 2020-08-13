@@ -1,0 +1,22 @@
+{
+  "name": "Timeline",
+  "version": "0.1.0",
+  "summary": "A short description of Timeline.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khanzayed22@gmail.com/Timeline",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khanzayed22@gmail.com": "fhabib4@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/khanzayed22@gmail.com/Timeline.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Timeline/Classes/**/*"
+}

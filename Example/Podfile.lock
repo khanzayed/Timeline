@@ -1,0 +1,16 @@
+PODS:
+  - Timeline (0.1.0)
+
+DEPENDENCIES:
+  - Timeline (from `../`)
+
+EXTERNAL SOURCES:
+  Timeline:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Timeline: a687df177fd87c9d3e9e68c613ca39de451c4924
+
+PODFILE CHECKSUM: c8d0d9ffb0cb6d72c1faf1498ee2ee3cdc117cb2
+
+COCOAPODS: 1.9.1

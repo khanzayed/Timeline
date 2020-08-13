@@ -1,0 +1,6 @@
+framework module Timeline {
+  umbrella header "Timeline-umbrella.h"
+
+  export *
+  module * { export * }
+}
